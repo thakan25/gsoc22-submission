@@ -31,3 +31,9 @@ Following are the improvements which can be made to the work done:
 ### Link to Pull requests
 * https://github.com/OpenPrinting/cups-filters/pull/487
 * https://github.com/OpenPrinting/cups/pull/434
+
+### Repo Links
+* [cups_fork](https://github.com/thakan25/cups/tree/avahi-optimization-sachin-thakan)
+* [cups-filters_fork](https://github.com/thakan25/cups-filters)
+
+
