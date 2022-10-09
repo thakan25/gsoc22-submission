@@ -24,8 +24,9 @@ Following is the progress in 2nd half
 
 ### Pending tasks
 Following are the improvements which can be made to the work done:
-1. Better logging and error handling
+1. Adding checks for mDNS RESPONDER in new apis
 2. Making avahi implementation of driverless utility more flexible(responding to different command line options)
+3. Better logging and error handling
 
 ### Link to Pull requests
 * https://github.com/OpenPrinting/cups-filters/pull/487
