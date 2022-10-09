@@ -22,7 +22,7 @@ First half of project saw following progress:
 Following is the progress in 2nd half
 1. Refactored driverless utility to use avahi apis directly rather than using ippfind utility. (Note: This may lead to lesser flexibility in  term of playing with several attributes. WIP to overcome those limitations)
 
-### Pending tasks
+### Bugs and Improvements 
 Following are the improvements which can be made to the work done:
 1. Adding checks for mDNS RESPONDER in new apis
 2. Making avahi implementation of driverless utility more flexible(responding to different command line options)
